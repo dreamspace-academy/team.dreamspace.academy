@@ -25,3 +25,6 @@
 [submodule "viththi"]
 	path = viththi
 	url = https://github.com/Viththiyakaran/viththi.dreamspace.academy.git
+[submodule "ram.dreamspace.academy"]
+	path = ram.dreamspace.academy
+	url = https://github.com/kesavaram96/ram.dreamspace.academy.git
