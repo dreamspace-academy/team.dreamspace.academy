@@ -1,0 +1,6 @@
+[submodule "kishoth"]
+	path = kishoth
+	url = https://github.com/nkishoth/kishoth.dreamspace.academy.git
+[submodule "aravinth"]
+	path = aravinth
+	url = https://github.com/AravinthPanch/aravinth.dreamspace.academy.git
