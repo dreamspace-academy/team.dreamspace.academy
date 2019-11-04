@@ -1,4 +1,4 @@
-# team.dreamspace.academy
+# http://team.dreamspace.academy
 
 ## Setup repo
 - `git submodule update --init`
