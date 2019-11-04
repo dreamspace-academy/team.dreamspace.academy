@@ -19,12 +19,6 @@
 [submodule "thinushan"]
 	path = thinushan
 	url = https://github.com/Thinushan/thinushan.dreamspace.academy.git
-[submodule "amri"]
-	path = amri
-	url = https://github.com/AngelAmrutha/amri.dreamspace.academy.git
 [submodule "viththi"]
 	path = viththi
 	url = https://github.com/Viththiyakaran/viththi.dreamspace.academy.git
-[submodule "ram"]
-	path = ram
-	url = https://github.com/kesavaram96/ram.dreamspace.academy.git
