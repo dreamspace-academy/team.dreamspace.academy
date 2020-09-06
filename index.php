@@ -1,3 +1,3 @@
-<?php 
- header('Location: http://dreamspace.academy/pages/about/index.php#team');
+<?php
+ header('Location: https://dreamspace.academy/pages/2-0-about.php#team');
 ?>
