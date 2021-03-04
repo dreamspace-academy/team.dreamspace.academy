@@ -1,24 +1,9 @@
 [submodule "kishoth"]
 	path = kishoth
 	url = https://github.com/nkishoth/kishoth.dreamspace.academy.git
-[submodule "aravinth"]
-	path = aravinth
-	url = https://github.com/AravinthPanch/aravinth.dreamspace.academy.git
-[submodule "grashiyan"]
-	path = grashiyan
-	url = https://github.com/grashigrashiyan/grashiyan.dreamspace.academy.git
-[submodule "jayanthan"]
-	path = jayanthan
-	url = https://github.com/Jayanthan-Amalanathan/jayanthan.dreamspace.academy.git
-[submodule "prashath"]
-	path = prashath
-	url = https://github.com/Prashath-31/prashath.dreamspace.academy.git
 [submodule "thanushkar"]
 	path = thanushkar
 	url = https://github.com/Thanushkar/thanushkar.dreamspace.academy.git
-[submodule "thinushan"]
-	path = thinushan
-	url = https://github.com/Thinushan/thinushan.dreamspace.academy.git
 [submodule "viththi"]
 	path = viththi
 	url = https://github.com/Viththiyakaran/viththi.dreamspace.academy.git
